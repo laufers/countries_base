@@ -15,3 +15,9 @@ untilty provided by GitHub at [https://import.github.com](https://import.github.
 ####Disclaimer
 
 This is a work in progress
+
+
+This README.md file should be replaced with the README2.md file when going live for the
+class exercise. 
+
+Additional information should be directed to /dev/null. 
